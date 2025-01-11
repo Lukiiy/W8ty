@@ -13,7 +13,7 @@
 		"đžñôëã∎↑↓←→«»≈⁰",
 		"¹²³⁴⁵⁶⁷⁸⁹¨*—´¡¿",
 		"■□•_æœ€£¥₹☺☹★♥✦",
-		"αβγω˜"
+		"αβγω˜ªº"
 	],
 	"glyph-color": "black",
 	"in-kerning": [
@@ -38,13 +38,13 @@
 	"font-type": "otf",
 	"font-name": "W8ty",
 	"font-author": "Lukiiy",
-	"font-copy": "(c) Lukiiy 2024",
-	"font-version": "Version 2",
+	"font-copy": "(c) Lukiiy 2025",
+	"font-version": "Version 2.6",
 	"font-desc": "Very cool pixelated font.",
 	"font-license": "SIL Open Font License",
 	"font-license-url": "https://openfontlicense.org/open-font-license-official-text/",
 	"font-sample-text": "Hello, world!",
 	"font-preview-text": [
-		"Lorem ipsum"
+		"Lorem ipsum."
 	]
 }
